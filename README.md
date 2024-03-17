@@ -80,7 +80,7 @@ python RGCVAE.py --dataset zinc_long2 --restore results/[checkpoint].pickle --co
 
 # Pre-processed datasets, Pre-trained Models and Results
 
-Soon we will public the pre-processed datasets, pre-trained models and generated molecules.
+[Soon we will public the pre-processed datasets, pre-trained models and generated molecules.](https://www.dropbox.com/scl/fi/urq9pnl3e190168q2qhku/RGCVAE-checkpoints.tar.gz?rlkey=inb8qwyrs8j3yfr0wa5nrnobp&dl=0)
 
 # Information
 
